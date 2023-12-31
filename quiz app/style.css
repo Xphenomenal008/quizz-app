@@ -1,0 +1,30 @@
+body{
+    background-color: black;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+body h1{
+    color: white;
+}
+ 
+#options{
+    display:flex;
+    flex-direction: column;
+    padding: 20px;
+    padding-bottom: 15px
+}
+#options button{
+    margin-bottom: 10px;
+    height: 40px;
+    width: 90%;
+    border: none;
+}
+#question {
+     color: aliceblue;
+     display: flex;
+     justify-content: center;
+     align-items: center;
+     font-size: larger;
+     font-weight: 600;
+     margin-right: 70px;
+
+}
